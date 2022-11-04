@@ -1,7 +1,7 @@
-package PageObject.BrowsersTesting;
+package browsersTesting;
 
-import PageObject.BaseTest;
-import PageObject.HomePage;
+import base.BaseTest;
+import base.pageObjects.HomePage;
 import com.applitools.eyes.BatchInfo;
 import com.applitools.eyes.RectangleSize;
 import com.applitools.eyes.selenium.fluent.Target;
